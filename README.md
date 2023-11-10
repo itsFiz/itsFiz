@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS, SpringBoot**
 
-- 📫 How to reach me **hafizkadir.work@gmail.com**
+- 📫 How to reach me **fiz@fizx.xyz**
 
 - ⚡ Fun fact **I play drums and skate**
 
