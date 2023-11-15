@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **ReactJS, SpringBoot**
 
+- 🌐 Visit my website **https://fizx.xyz/**
+
 - 📫 How to reach me **fiz@fizx.xyz**
 
 - ⚡ Fun fact **I play drums and skate**
