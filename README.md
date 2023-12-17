@@ -13,7 +13,7 @@
 
 - 🌐 Visit my website **https://fizx.xyz/**
 
-- 📫 How to reach me **fiz@fizx.xyz**
+- 📫 How to reach me **hafizkadir.work@gmail.com**
 
 - ⚡ Fun fact **I play drums and skate**
 
