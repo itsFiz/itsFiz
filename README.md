@@ -32,7 +32,7 @@
 <h3 align="left">Support:</h3>
 <p style="float: left; margin-right: 10px;">
   <a href="https://ko-fi.com/criedfizcken"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="criedfizcken" /></a>
-  <a href="https://ko-fi.com/criedfizcken"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2560px-PayPal.svg.png" height="40" width="200" alt="criedfizcken" /></a></p>
+  <a href="https://paypal.me/criedfizcken?country.x=MY&locale.x=en_US"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2560px-PayPal.svg.png" height="40" width="200" alt="criedfizcken" /></a></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itsfiz" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsfiz&&theme=tokyonight" alt="rishavchanda" /></p>
