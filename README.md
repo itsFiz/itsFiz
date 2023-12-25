@@ -16,6 +16,7 @@
 - 📫 How to reach me **hafizkadir.work@gmail.com**
 
 - ⚡ Fun fact **I play drums and skate**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
