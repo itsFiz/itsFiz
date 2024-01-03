@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Fiz</h1>
 <h3 align="center">Augmented Reality(AR) Engineer & Fullstack Developer.</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsfiz&label=Profile%20views&color=36a1ce&style=flat" alt="itsfiz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/criedfizcken" target="blank"><img src="https://img.shields.io/twitter/follow/criedfizcken?logo=twitter&style=for-the-badge" alt="criedfizcken" /></a> </p>
