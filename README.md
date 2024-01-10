@@ -36,7 +36,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itsfiz" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsfiz&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itsfiz" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsfiz&&theme=tokyonight" alt="itsfiz" /></p>
 
 
 
