@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/criedfizcken" target="blank"><img src="https://img.shields.io/twitter/follow/criedfizcken?logo=twitter&style=for-the-badge" alt="criedfizcken" /></a> </p>
 
-- 🔭 I’m currently working as **IT Associate at UOB**
+- 🔭 I’m the Founder of **NexzGen Studio**
+  
+- 💻 I was formerly a 3D Content Developer at **Innoveam** and an IT Associate at **UOB**
 
 - 🌱 I’m currently learning **ReactJS, SpringBoot**
 
