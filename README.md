@@ -12,11 +12,11 @@
   
 - 💻 I was formerly a 3D Content Developer at **Innoveam** and an IT Associate at **UOB**
 
-- 🌱 I’m currently learning **ReactJS, SpringBoot**
+- 🌱 I’m currently obsessed building with **NextJS, Typescript**
 
 - 🌐 Visit my website **https://fizx.xyz/**
 
-- 📫 How to reach me **hafizkadir.work@gmail.com**
+- 📫 How to reach me **fiz@nexzgen.com**
 
 - ⚡ Fun fact **I play drums and skate**
   
