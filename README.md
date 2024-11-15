@@ -12,7 +12,7 @@
   
 - 💻 I was formerly a 3D Content Developer at **Innoveam** and an IT Associate at **UOB**
 
-- 🌱 I’m currently obsessed building with **NextJS, Typescript**
+- 🌱 I’m currently obsessed building with **NextJS, Typescript** and collecting Tech Stack like Pokemon.
 
 - 🌐 Visit my website **https://fizx.xyz/**
 
