@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently obsessed building with **NextJS, Typescript** and collecting Tech Stack like Pokemon.
 
-- 🌐 Visit my website **https://fizx.xyz/**
+- 🌐 Visit my website **https://f12.gg/**
 
-- 📫 How to reach me **fiz@nexzgen.com**
+- 📫 How to reach me **hello@f12.gg**
 
 - ⚡ Fun fact **I play drums and skate**
   
