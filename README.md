@@ -11,7 +11,7 @@
   
 - 💻 I was formerly a 3D Content Developer at **Innoveam** and an IT Associate at **UOB**
 
-- 🌱 I’m currently obsessed building with **NextJS, Typescript** and collecting Tech Stack like Pokemon.
+- 🌱 I’m currently obsessed building with **React, Typescript, Go** and collecting Tech Stack like Pokemon.
 
 - ⚡ Fun fact **I play drums and skate**
   
