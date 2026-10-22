@@ -1,43 +1,55 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-
-
 <h1 align="center">Hi 👋, I'm Fiz</h1>
-<h3 align="center">Augmented Reality(AR) Engineer & Fullstack Developer.</h3>
+<h3 align="center">CTO @ Brozkey · Technical Director @ Nearbiz Tech · 10x Tokenmaxxer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsfiz&label=Profile%20views&color=36a1ce&style=flat" alt="itsfiz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/criedfizcken" target="blank"><img src="https://img.shields.io/twitter/follow/criedfizcken?logo=twitter&style=for-the-badge" alt="criedfizcken" /></a> </p>
-
-  
-- 💻 I was formerly a 3D Content Developer at **Innoveam** and an IT Associate at **UOB**
-
-- 🌱 I’m currently obsessed building with **React, Typescript, Go** and collecting Tech Stack like Pokemon.
-
-- ⚡ Fun fact **I play drums and skate**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/criedfizcken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="criedfizcken" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hfzkdr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hfzkdr/" height="30" width="40" /></a>
-<a href="https://instagram.com/criedfizcken/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/criedfizcken/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@criedfizcken6200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@criedfizcken6200" height="30" width="40" /></a>
-<a href="https://discord.gg/EhkJZpVyvX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EhkJZpVyvX" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://f12.gg"><img src="https://img.shields.io/badge/f12.gg-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="f12.gg" /></a>
+  <a href="https://linkedin.com/in/hfzkdr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.tiktok.com/@infiznity"><img src="https://img.shields.io/badge/TikTok-30k-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.instagram.com/infiznity/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/criedfizcken"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+---
 
-<h3 align="left">Support:</h3>
-<p style="float: left; margin-right: 10px;">
-  <a href="https://ko-fi.com/criedfizcken"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="criedfizcken" /></a>
- </p>
+### 🚀 Now
+
+- 💈 **CTO @ Brozkey** — architected a 5-platform ecosystem for barbers (**Battleground, NearCut, BHub Academy, B360, Hairbot**) serving **500+ active barbers**, plus **BrozOS**, our internal operating system.
+- 🛠️ **Technical Director @ Nearbiz Tech** — Brozkey's tech consulting arm, shipping AI chatbots, advocacy platforms and SaaS builds for enterprise clients.
+- 🎓 Running **NIX (Nearbiz Internship eXperience)** — a 6-month program that takes junior devs to founding-engineer level through AI-augmented pair programming.
+- 🤖 All-in on **AI-augmented engineering** with Claude Code and Markdown Engineering.
+
+### 🧭 Before
+
+| Role | Where | When |
+| --- | --- | --- |
+| Executive, System Development | TNB Research | 2024 – 2025 |
+| IT Associate, Digital Banking | UOB | 2023 – 2024 |
+| 3D Content Developer (AR / HoloLens 2) | Innoveam | 2023 |
+| Affiliate Streamer | Twitch | 2020 – 2023 |
+
+### 🧰 Stack
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itsfiz" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsfiz&&theme=tokyonight" alt="itsfiz" /></p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,go,postgres,prisma,tailwind,nodejs,docker,vercel&perline=10" alt="Main stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,flutter,cs,unity,blender,figma,git&perline=10" alt="Also used" />
+</p>
 
+### 📌 Recent builds
 
+| Project | What |
+| --- | --- |
+| [f12os](https://github.com/itsFiz/f12os) | TypeScript project — [f12.gg](https://f12.gg) |
+| [whenough](https://github.com/itsFiz/whenough) | TypeScript side project |
+| [dream-board](https://github.com/itsFiz/dream-board) | Vision board app · [live](https://dream-board-blond.vercel.app) |
+| [ARespiratory](https://github.com/itsFiz/ARespiratory) | AR app for learning the respiratory system (Unity + Vuforia) |
+| [react-portfolio](https://github.com/itsFiz/react-portfolio) | My old portfolio, now a template people actually use ⭐ |
 
+### ⚡ Fun fact
 
+I play drums and skate 🥁🛹
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsfiz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
