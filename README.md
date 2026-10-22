@@ -51,5 +51,5 @@
 I play drums and skate 🥁🛹
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsFiz.itsFiz&left_text=Profile%20views&right_color=%230e75b6" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itsfiz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
